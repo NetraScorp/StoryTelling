@@ -1,6 +1,6 @@
-<mxfile modified="2022-03-26T10:48:15.925Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="yWU3QNMpcyPbJ6taEu-e" version="17.1.5" type="github">
+<mxfile modified="2022-03-26T11:01:57.101Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="yO-c5yuPGkM31Pbp2HV3" version="17.1.5" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
-    <mxGraphModel dx="946" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="906" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,8 +115,8 @@
         <mxCell id="3ne1QswCM8ZiEu4GHsYG-32" value="" style="line;strokeWidth=2;html=1;fontSize=20;fontColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="103.5" y="80" width="960" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="pUElotbMZ5d1CtumVb_g-1" value="Authentication&lt;br&gt;password&lt;br&gt;certificate based&lt;br&gt;&lt;br&gt;&lt;br&gt;biometric&lt;br&gt;&lt;ul&gt;&lt;li&gt;fingerprint&lt;/li&gt;&lt;li&gt;voiceprints&lt;/li&gt;&lt;li&gt;iris scan&lt;/li&gt;&lt;li&gt;physical signals-unique heart rate information&lt;/li&gt;&lt;li&gt;DNA&lt;/li&gt;&lt;li&gt;facial recognition&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;multifactor authentication&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;location&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;audio&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;gesture&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;FIDO- Fast Identity Online&lt;br&gt;&lt;ul&gt;&lt;li&gt;formed in 2012&lt;/li&gt;&lt;li&gt;formed to develop common open tech specs&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="48" y="433" width="291" height="356" as="geometry" />
+        <mxCell id="pUElotbMZ5d1CtumVb_g-1" value="&lt;b&gt;Authentication&lt;/b&gt;&lt;br&gt;password&lt;br&gt;certificate based&lt;br&gt;&lt;br&gt;&lt;br&gt;biometric&lt;br&gt;&lt;ul&gt;&lt;li&gt;fingerprint&lt;/li&gt;&lt;li&gt;voiceprints&lt;/li&gt;&lt;li&gt;iris scan&lt;/li&gt;&lt;li&gt;physical signals-unique heart rate information&lt;/li&gt;&lt;li&gt;DNA&lt;/li&gt;&lt;li&gt;facial recognition&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;multifactor authentication&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;location&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;audio&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;gesture&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;FIDO- Fast Identity Online&lt;br&gt;&lt;ul&gt;&lt;li&gt;formed in 2012&lt;/li&gt;&lt;li&gt;formed to develop common open tech specs&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;single factor/primary authentication&lt;/div&gt;&lt;div&gt;Two Factor Authentication (2FA)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="48" y="412" width="291" height="398" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
