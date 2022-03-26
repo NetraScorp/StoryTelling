@@ -5,5 +5,5 @@
 3. Evolution of Java
 
 
-![Alt text here](images/someimage.png)
-(EvolutionOfLogin.drawio)
+![Alt text here](EvolutionOfLogin.drawio.svg)
+(EvolutionOfLogin.drawio.svg)
